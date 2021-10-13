@@ -13,3 +13,14 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+# MacOS 
+.Ds_Store
+
+# nodejs
+node_modules
+node_modules/**
+
+# idea
+.idea
+
